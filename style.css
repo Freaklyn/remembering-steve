@@ -1,0 +1,199 @@
+*{
+    box-sizing: border-box;
+    background-color: rgba(241, 232, 215, 0.5); 
+  
+  }
+  ul{
+    list-style: none;
+    margin-top:auto;
+    padding: 0;
+    overflow:hidden;
+    border: 1px solid black;
+    background-color: rgb(50, 50, 50);
+    height: 40px;
+    width: 100%;
+  }
+  li{
+  text-align: center;
+  margin-left: 230px;
+  
+  }
+  li a {
+    display: block;
+    color: white;
+  float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:rgb(50, 50, 50)
+  }
+  li a i{
+    background-color: rgb(50, 50, 50);
+  }
+  .full{
+    background-color: white;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    box-sizing: content-box;
+    padding: 75px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: content-box;
+    border: 1px solid grey;
+    box-shadow: 1px 1px grey ;
+  }
+  .first{
+    background-color: white;
+  }
+  h1 ,p,h4,h3{
+    background-color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .second, .tenth , .twelveth, .thirteen{
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    width: 70%;
+    margin-left: 70px;
+  
+  }
+  .second h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .second p{
+    margin-bottom: 13px;
+    padding: 0;
+    height: 40px;
+  }
+  .third, .sixth, .eleventh{
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    width: 70%;
+    margin-left: 70px;
+  }
+  .third h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .third p{
+    margin-bottom: 13px;
+    height: 40px;
+  }
+  span{
+    color: grey;
+    background-color: white;
+  }
+  .fourth,.fifth, .ninth, .fifteen {
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    width: 70%;
+    margin-left: 70px;
+  }
+  .fourth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .fourth p{
+    margin-bottom: 13px;
+    height: 40px;
+  }
+  .fifth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .sixth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .extra, .seventh, .eighth, .fourteen{
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    width: 70%;
+    margin-left: 70px;
+  }
+  .extra p{
+    margin-bottom: 15px;
+    padding-top: 25px;
+  }
+  .seventh h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .eighth h4{ 
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px;
+  }
+  .ninth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .tenth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .eleventh h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .twelveth h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .thirteen h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .fourteen h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .fifteen h4{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    height: 20px
+  }
+  .folder{
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    width: 70%;
+    margin-left: 70px;
+  }
+  h3{
+    color: grey;
+  }
+  .folder h3{
+    margin-bottom: 10px;
+    height: 20px
+  }
+  .other{
+    background-color: white;
+    
+  }
+  .other h1{
+    margin-bottom: 15px;
+    height: 15px;
+  }
+  .other h3{
+    color:black;
+    height:20px;
+    margin-bottom: 0px;
+  }
